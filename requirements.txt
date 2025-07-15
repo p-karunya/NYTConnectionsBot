@@ -1,0 +1,8 @@
+gymnasium
+streamlit
+numpy
+pandas
+stable-baselines3[extra]
+requests
+beautifulsoup4
+pydantic
